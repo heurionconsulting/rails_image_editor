@@ -1,0 +1,35 @@
+#ImageEditorContainer {
+	padding: 0px 3px 3px 3px;
+	font-size: 10px;
+}
+#ImageEditorToolbar {
+	padding: 3px 0px;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 3px;
+	white-space: nowrap;
+}
+#ImageEditorToolbar button {
+	font-size: 10px;
+}
+#ImageEditorToolbar span.spacer {
+	font-weight:bold;
+	font-size: 16px;
+	color: #ccc;
+}
+#ImageEditorImage {
+	background-repeat: no-repeat;
+}
+#ImageEditorLoadingText {
+	font-size: 16px;
+	font-weight: bold;
+	color: #333;
+	white-space: nowrap;
+}
+#ImageEditorTxtWidth, #ImageEditorTxtHeight {
+	font-size: 10px;
+	text-align: center;
+}
+#ImageEditorCropSize {
+	font-size: 12px;
+}
